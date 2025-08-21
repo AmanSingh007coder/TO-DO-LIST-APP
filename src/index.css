@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(19, 18, 63);
+}
+
+
+h1{
+    color:white;
+    font-size: 50px;
+    margin-top: 50px;
+}
+
+.to-do-app{
+    text-align: center;
+}
+
+.add-task-button{
+    padding:16px;
+    background-color: rgb(9, 238, 35);
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: 700;
+}
+
+.input{
+    padding:16px;
+    border-radius: 6px;
+    margin-right: 10px;
+    width:600px;
+    background-color: whitesmoke;
+    font-weight: 800;
+}
+
+.delete-button{
+    padding:5px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 6px;
+    margin-right:10px;
+    cursor: pointer;
+    font-weight: 700;
+    
+}
+
+.move-button{
+    padding:5px;
+    background-color: rgb(38, 0, 255);
+    border-radius: 6px;
+    margin-right:10px;
+    cursor: pointer;
+    
+}
+
+ol{
+    margin-top:40px;
+}
+
+li{
+    background-color: aliceblue;
+    margin:10px;
+    padding:5px;
+    display: flex;
+    align-items: center;
+    border:2px solid hsl(0, 3%, 28%);
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.text{
+    flex:1;
+}
+
+.input-container{
+    margin-top:50px;
+}
