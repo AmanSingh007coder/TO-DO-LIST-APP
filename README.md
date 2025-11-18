@@ -1,4 +1,4 @@
-# 📝 React + Tailwind To-Do List App
+# To Do List App
 
 A simple and beginner-friendly **To-Do List** application built using **React.js** and **Tailwind CSS**. This project helped me understand React hooks like **useState**, **useEffect**, and **useRef**, along with responsive UI design using Tailwind.
 
@@ -7,9 +7,9 @@ A simple and beginner-friendly **To-Do List** application built using **React.js
 ## 🚀 Features
 -  Add new tasks
 -  Delete tasks
-- 🔃 Sort tasks by priority
-- 📱 Fully responsive UI
-- ⚛️ Built with beginner-friendly React concepts
+-  Sort tasks by priority
+-  Fully responsive UI
+-  Built with beginner-friendly React concepts
 
 ---
 
